@@ -1,0 +1,1 @@
+Hazır git repo
